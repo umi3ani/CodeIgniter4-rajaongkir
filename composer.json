@@ -1,0 +1,8 @@
+{
+    "name": "totoprayogo1916/ci4-rajaongkir",
+    "type": "library",
+    "require": {
+        "codeigniter4/framework": "^4.0"
+    },
+    "license": "MIT"
+}
